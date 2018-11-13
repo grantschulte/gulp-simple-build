@@ -1,0 +1,11 @@
+.foo {
+  padding: 20px;
+
+  .bar {
+    color: black;
+    
+    &.baz {
+      color: red;
+    }
+  }
+}
