@@ -19,8 +19,7 @@
     "node-sass": "4.10.0"
   },
   "scripts": {
-    "build": "gulp",
-    "clean": "gulp:clean"
+    "build": "gulp"
   },
   "engines": {
     "node": "10.13.0",
